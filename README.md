@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @clayaldas
-- 👀 I’m interested develop React, Angular, Vue.
-- 🌱 I’m currently learning Rust.
-- 💞️ I’m looking to collaborate on ASP.NET COre, Angular.
+- 👀 I’m interested Front-End Technologies: React, Angular, Vue, Svelte.
+- 👀 Back-End Technologies: ASPNET.CORE, NODE.JS.
+- 👀 Mobile App Development Technologies: Android (Java, Kotlin), Flutter, React Native, Xamrin (MAUI).
+- 🌱 I’m currently learning Rust, WebAssembly, GO.
+- 💞️ I’m looking to collaborate on ASP.NET CORE, Angular.
 - 📫 How to reach me clayaldas@uta.edu.ec
 
 <!---
