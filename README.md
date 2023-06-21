@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @clayaldas
-- 👀 I’m interested Front-End Technologies: React.js, Angular.js, Vue.js, Svelte.js.
+- 👀 I’m interested Front-End Technologies: React.js, Angular.js, Vue.js, Svelte.js, Qwik.js.
 - 👀 Back-End Technologies: ASPNET.CORE, Node.js, Go.
 - 👀 Mobile App Development Technologies: Android (Java, Kotlin), Flutter, React Native, Xamarin (MAUI).
 - 🌱 I’m currently learning Rust, Go, WebAssembly, Next.js, and Solidity.
