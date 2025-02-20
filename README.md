@@ -5,7 +5,7 @@
 </p>
 
 # Universidad Técnica de Ambato 👋, FISEI
-## 💫 Welcome to my Github Profile!! ![Profile views counter](https://komarev.com/ghpvc/?username=clayaldas&&style=flat-square)
+## 💫 Welcome to my Github Profile!!   ![Profile views counter](https://komarev.com/ghpvc/?username=clayaldas&&style=flat-square) 
 
 Hello! I am a passionate software engineer specializing in development with .NET technologies. My goal is to create robust and efficient solutions that drive growth and innovation in the world of technology.
 With a solid background in computer engineering and several years of experience in the field, I have specialized in the design, development and implementation of scalable and high-performance applications. My focus is on using development best practices, design patterns and agile methodologies to deliver high-quality products.
@@ -15,7 +15,7 @@ In addition to my technical skills, I believe in the importance of working as a 
 In short, I am an experienced .NET software engineer who is constantly looking for stimulating challenges in the field of software development. I am always willing to explore new opportunities and contribute my skills to drive the success of the projects I am involved in.
 Connect with me to explore potential collaborations and opportunities
 <br/> 
-
+<br/>
 ### 🌐 Socials:
     
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/clayaldas) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/clayaldas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/clayaldas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clayaldas) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/clayaldas) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/clayaldas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:clayaldas) 
@@ -50,12 +50,11 @@ Connect with me to explore potential collaborations and opportunities
 ![](https://github-readme-streak-stats.herokuapp.com/?user=clayaldas&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=clayaldas&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=clayaldas&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=clayaldas&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=clayaldas&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=clayaldas&limit=5&theme=radical&combine_all_yearly_contributions=true)
 ---
 [![](https://visitcount.itsvg.in/api?id=clayaldas&icon=9&color=13)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
