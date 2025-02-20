@@ -1,4 +1,5 @@
 ![github-header](https://github.com/user-attachments/assets/11329230-b0c0-426c-be4c-eaa835eb4c56)
+
 # Universidad Técnica de Ambato 👋, FISEI
 ## 💫 Welcome here!! ![Profile views counter](https://komarev.com/ghpvc/?username=clayaldas&&style=flat-square)
 Hello! I am a passionate software engineer specializing in development with .NET technologies. My goal is to create robust and efficient solutions that drive growth and innovation in the world of technology.
