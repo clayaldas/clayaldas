@@ -1,4 +1,7 @@
 ![github-header](https://github.com/user-attachments/assets/11329230-b0c0-426c-be4c-eaa835eb4c56)
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
 # Universidad Técnica de Ambato 👋, FISEI
 ## 💫 Welcome here!! ![Profile views counter](https://komarev.com/ghpvc/?username=clayaldas&&style=flat-square)
