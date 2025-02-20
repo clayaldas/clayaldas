@@ -4,7 +4,7 @@
 </p>
 
 # Universidad Técnica de Ambato 👋, FISEI
-## 💫 Welcome here!! ![Profile views counter](https://komarev.com/ghpvc/?username=clayaldas&&style=flat-square)
+## 💫 Welcome to my Github Profile!! ![Profile views counter](https://komarev.com/ghpvc/?username=clayaldas&&style=flat-square)
 Hello! I am a passionate software engineer specializing in development with .NET technologies. My goal is to create robust and efficient solutions that drive growth and innovation in the world of technology.
 With a solid background in computer engineering and several years of experience in the field, I have specialized in the design, development and implementation of scalable and high-performance applications. My focus is on using development best practices, design patterns and agile methodologies to deliver high-quality products.
 During my professional career, I have worked on a wide range of challenging projects, from enterprise application development to web platforms and API services. I am always looking for new opportunities to learn and tackle complex technical challenges.
